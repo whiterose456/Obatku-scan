@@ -1,0 +1,123 @@
+{
+  "paracetamol": {
+    "maxDailyDose": "4000mg",
+    "warnings": [
+      "liver disease",
+      "chronic alcohol use"
+    ],
+    "contraindications": [
+      "severe liver impairment"
+    ],
+    "sideEffects": [
+      "nausea",
+      "rash",
+      "allergic reactions"
+    ]
+  },
+  "caffeine": {
+    "maxDailyDose": "400mg",
+    "warnings": [
+      "hypertension",
+      "anxiety disorders",
+      "heart conditions"
+    ],
+    "contraindications": [
+      "severe arrhythmia"
+    ],
+    "sideEffects": [
+      "insomnia",
+      "jitteriness",
+      "increased heart rate"
+    ]
+  },
+  "ibuprofen": {
+    "maxDailyDose": "1200mg",
+    "warnings": [
+      "stomach ulcers",
+      "kidney disease",
+      "heart disease",
+      "hypertension"
+    ],
+    "contraindications": [
+      "active peptic ulcer",
+      "severe kidney impairment",
+      "third trimester pregnancy"
+    ],
+    "sideEffects": [
+      "stomach pain",
+      "nausea",
+      "dizziness"
+    ]
+  },
+  "amoxicillin": {
+    "maxDailyDose": "3000mg",
+    "warnings": [
+      "penicillin allergy",
+      "kidney disease"
+    ],
+    "contraindications": [
+      "penicillin hypersensitivity"
+    ],
+    "sideEffects": [
+      "diarrhea",
+      "nausea",
+      "rash"
+    ]
+  },
+  "ascorbic_acid": {
+    "maxDailyDose": "2000mg",
+    "warnings": [
+      "kidney stones",
+      "iron overload disorders"
+    ],
+    "contraindications": [],
+    "sideEffects": [
+      "diarrhea",
+      "stomach cramps"
+    ]
+  },
+  "aluminum_hydroxide": {
+    "maxDailyDose": "3000mg",
+    "warnings": [
+      "kidney disease",
+      "phosphate deficiency"
+    ],
+    "contraindications": [
+      "severe kidney impairment"
+    ],
+    "sideEffects": [
+      "constipation",
+      "loss of appetite"
+    ]
+  },
+  "magnesium_hydroxide": {
+    "maxDailyDose": "3000mg",
+    "warnings": [
+      "kidney disease",
+      "heart block"
+    ],
+    "contraindications": [
+      "severe kidney impairment",
+      "intestinal obstruction"
+    ],
+    "sideEffects": [
+      "diarrhea",
+      "stomach cramps"
+    ]
+  },
+  "dextromethorphan": {
+    "maxDailyDose": "120mg",
+    "warnings": [
+      "MAOI use",
+      "respiratory depression"
+    ],
+    "contraindications": [
+      "MAOI use within 14 days"
+    ],
+    "sideEffects": [
+      "drowsiness",
+      "dizziness",
+      "nausea"
+    ]
+  }
+}

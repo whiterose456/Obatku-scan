@@ -1,0 +1,114 @@
+{
+  "panadol": {
+    "id": "panadol",
+    "name": "Panadol",
+    "activeIngredients": [
+      {
+        "name": "paracetamol",
+        "dosage": "500mg"
+      }
+    ],
+    "category": "analgesic",
+    "manufacturer": "GSK",
+    "form": "tablet"
+  },
+  "bodrex": {
+    "id": "bodrex",
+    "name": "Bodrex",
+    "activeIngredients": [
+      {
+        "name": "paracetamol",
+        "dosage": "500mg"
+      },
+      {
+        "name": "caffeine",
+        "dosage": "50mg"
+      }
+    ],
+    "category": "analgesic",
+    "manufacturer": "Dexa Medica",
+    "form": "tablet"
+  },
+  "paracetamol_generic": {
+    "id": "paracetamol_generic",
+    "name": "Paracetamol Generic",
+    "activeIngredients": [
+      {
+        "name": "paracetamol",
+        "dosage": "500mg"
+      }
+    ],
+    "category": "analgesic",
+    "manufacturer": "Various",
+    "form": "tablet"
+  },
+  "ibuprofen": {
+    "id": "ibuprofen",
+    "name": "Ibuprofen",
+    "activeIngredients": [
+      {
+        "name": "ibuprofen",
+        "dosage": "400mg"
+      }
+    ],
+    "category": "nsaid",
+    "manufacturer": "Various",
+    "form": "tablet"
+  },
+  "amoxicillin": {
+    "id": "amoxicillin",
+    "name": "Amoxicillin",
+    "activeIngredients": [
+      {
+        "name": "amoxicillin",
+        "dosage": "500mg"
+      }
+    ],
+    "category": "antibiotic",
+    "manufacturer": "Various",
+    "form": "capsule"
+  },
+  "vitamin_c": {
+    "id": "vitamin_c",
+    "name": "Vitamin C",
+    "activeIngredients": [
+      {
+        "name": "ascorbic_acid",
+        "dosage": "1000mg"
+      }
+    ],
+    "category": "supplement",
+    "manufacturer": "Various",
+    "form": "tablet"
+  },
+  "antacid": {
+    "id": "antacid",
+    "name": "Antacid",
+    "activeIngredients": [
+      {
+        "name": "aluminum_hydroxide",
+        "dosage": "250mg"
+      },
+      {
+        "name": "magnesium_hydroxide",
+        "dosage": "250mg"
+      }
+    ],
+    "category": "antacid",
+    "manufacturer": "Various",
+    "form": "suspension"
+  },
+  "cough_syrup": {
+    "id": "cough_syrup",
+    "name": "Cough Syrup",
+    "activeIngredients": [
+      {
+        "name": "dextromethorphan",
+        "dosage": "10mg/5ml"
+      }
+    ],
+    "category": "antitussive",
+    "manufacturer": "Various",
+    "form": "syrup"
+  }
+}

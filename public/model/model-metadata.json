@@ -1,0 +1,14 @@
+{
+  "classes": [
+    "panadol",
+    "bodrex",
+    "paracetamol_generic",
+    "ibuprofen",
+    "amoxicillin",
+    "vitamin_c",
+    "antacid",
+    "cough_syrup"
+  ],
+  "inputShape": [224, 224, 3],
+  "modelType": "MobileNetV2"
+}
